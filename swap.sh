@@ -1,6 +1,6 @@
 #!  /bin/bash
 
-# Notice: This script only support Ubuntu 16.04
+# Notice: This script only tested under Ubuntu 16.04
 # Author: Jack, Website: qiaohong.org
 
 # 出错即退出脚本
