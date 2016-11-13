@@ -4,8 +4,10 @@ A script for add and remove swap space
 # usage
 
 add [size]
+
         add swap space as your input size. Unit: M, G
 restore
+
         remove swap file, back to your origin setting.
 
 # Notice
